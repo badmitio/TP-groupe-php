@@ -1,7 +1,7 @@
 # Rapport de mission – MiniProjet Héritage (PHP et C#) : Formule 1
 
 ## 1. Dépôt GitHub
-https://github.com/badmitio/TP_PHP_groupe (branche `f1-php`)
+https://github.com/badmitio/TP-groupe-php (branche `f1-php`)
 
 ```
 PHP/      -> classes PHP, tests, script SQL
