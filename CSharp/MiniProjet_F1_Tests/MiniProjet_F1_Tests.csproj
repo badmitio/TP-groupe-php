@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Application console de test de la dll -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <RootNamespace>MiniProjet_F1_Tests</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiniProjet_F1_Bibli\MiniProjet_F1_Bibli.csproj" />
+  </ItemGroup>
+
+</Project>
